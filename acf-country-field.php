@@ -4,6 +4,7 @@
  * Description: Custom ACF field type for ISO countries
  * Version: 1.0.0
  * Author: Vladyslav Malko
+ * Author uri: https://vladyslav.pro
  */
 
 if ( ! defined('ABSPATH') ) exit;
